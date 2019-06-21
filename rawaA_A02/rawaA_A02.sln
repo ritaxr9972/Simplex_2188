@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rawaA_A02", "rawaA_A02\rawaA_A02.vcxproj", "{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A02 - 3D Primitives", "A02 - 3D Primitives\A02 - 3D Primitives.vcxproj", "{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Debug|x64.ActiveCfg = Debug|x64
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Debug|x64.Build.0 = Debug|x64
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Debug|x86.Build.0 = Debug|Win32
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Release|x64.ActiveCfg = Release|x64
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Release|x64.Build.0 = Release|x64
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Release|x86.ActiveCfg = Release|Win32
+		{6EE5737E-ECAD-409B-B51D-498F82E1A9EF}.Release|x86.Build.0 = Release|Win32
+		{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}.Debug|x64.ActiveCfg = Debug|Win32
+		{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}.Debug|x86.Build.0 = Debug|Win32
+		{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}.Release|x64.ActiveCfg = Release|Win32
+		{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}.Release|x86.ActiveCfg = Release|Win32
+		{7EDBEED8-75ED-48EE-9F13-5D4A895E8F1B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE872DF-CD90-48D3-8B0D-3FDD61F4CFD5}
+	EndGlobalSection
+EndGlobal
